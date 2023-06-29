@@ -18,7 +18,7 @@ double A[N][N] = {0};
 int iter = 230;
 double lambda = 0.9;
 
-const char* dataFileName = "ToyProblemData.txt";
+const char* dataFileName = "mydata.txt";
 void readS(double S[N][N], const char* dfn) {
 	//read data 
 	ifstream myfile(dfn);

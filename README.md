@@ -21,3 +21,5 @@ The first number is the x coordinate and the second number is the y coordinate.
 g++ affinity_propagation -o ap
 
 Reference: "Clustering by Passing Messages between Data Points", Brendan J. Frey, Delbert Dueck, Science 2007.
+
+This code has been taken from : https://github.com/jincheng9/AffinityPropagation
